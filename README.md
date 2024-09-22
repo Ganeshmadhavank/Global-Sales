@@ -7,6 +7,9 @@ This Power BI dashboard provides a snapshot of global product performance, with 
 
 ![image](https://github.com/user-attachments/assets/5de9231a-ea9f-4209-a254-727355ef0271)
 
+![image](https://github.com/user-attachments/assets/b5b730dc-9cd5-4f66-b107-1cc170d70ea4)
+
+
 
 ### Key Metrics:
 - **Total Profit**: $12.06M
