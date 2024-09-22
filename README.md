@@ -5,6 +5,9 @@
 
 This Power BI dashboard provides a snapshot of global product performance, with insights into profit, sales, and manufacturing costs across various regions and product lines. It helps track trends, identify top-performing countries and products, and monitor sales month by month.
 
+![image](https://github.com/user-attachments/assets/5de9231a-ea9f-4209-a254-727355ef0271)
+
+
 ### Key Metrics:
 - **Total Profit**: $12.06M
 - **Products**: 700
